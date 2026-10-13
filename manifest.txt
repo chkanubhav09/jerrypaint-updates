@@ -1,0 +1,8 @@
+package=com.archjerry.jerrypaint
+versionCode=7
+versionName=1.2.1beta
+apkUrl=https://github.com/chkanubhav09/jerrypaint-updates/releases/download/v1.2.1beta/JerryPaint-1.2.1beta.apk
+sha256=782597c5fb69f6b7f87a10001371db54691672d0878dbf676d83de52f985f548
+size=45608
+notes=First build with updates switched on.
+sig=E/asOSKszHN1KqfPhctKLNaTwvnTexuB+8PqXov0/TCUwdHZPijjNu+UxJLJQmR26vUr0wqBk766glLjV+oOAfh53cKMMdQLP+sv+8Ok8YJvGbAXw3fdZ8dICHn+3dkQ8tX8t35DAPmxF8C9GNzEe7iALwk/M9BV3zRIb4wfrW7JJY6km2FihX442IM/JKyza3+459TTRdPQeQKLAPSqce+z9ogaW/NurLo17Rw5mwNviU/6fYoSg7SzYaYS+TjLqUgapKglaHitxncQkHsPC/j5TLgDoRuNAjJxyEb97j9woTJRXD+CG3KaVKsqK++dCodKowHehapJYmMM8M1KGg==
